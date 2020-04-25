@@ -1,6 +1,6 @@
 
-
-# Midterm 2 MENG602/438 nyit
+# New York Institute of Technology
+# MENG602/438 Midterm 2 
 Date: April 30th 2020
 Time: 5:45pm - 11:45pm
 
